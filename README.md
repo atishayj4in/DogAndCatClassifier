@@ -1,4 +1,4 @@
-# DogAndCatClassifier
+# Dog and Cat Classifier
 ◦ Built an image classification model to distinguish between dog and cat images using Convolutional Neural Networks (CNNs).
 <br>
 ◦ Leveraged transfer learning with the pre-trained VGG16 model for feature extraction and fine-tuning by training it’s block 5.
