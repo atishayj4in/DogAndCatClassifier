@@ -6,3 +6,4 @@
 ◦ Achieved a remarkable 95.7% accuracy on unseen data by optimizing the model using advanced techniques.
 <br>
 ◦ Preprocessed the dataset using data augmentation and normalization to improve model robustness.
+![Dog_and_Cat_Classifier](Dog_and_Cat_Classifier.jpg)
